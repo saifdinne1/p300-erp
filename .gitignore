@@ -1,0 +1,9 @@
+data/
+outputs_bids/
+releases/
+*.set
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+outputs/
