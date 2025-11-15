@@ -1,4 +1,6 @@
-﻿# P300 ERP — Analysis Snapshot (31 subjects)
+﻿[![CI](https://github.com/saifdinne1/p300-erp/actions/workflows/ci.yml/badge.svg)](https://github.com/saifdinne1/p300-erp/actions/workflows/ci.yml)
+
+# P300 ERP — Analysis Snapshot (31 subjects)
 
 ### Results at a glance
 - Processed **31** subjects; artifacts and KPIs available.
@@ -11,3 +13,4 @@
 **Cohort amplitude histogram (targets):**
 
 ![Amplitude histogram](outputs_bids/summary/hist_amp_target.png)
+
